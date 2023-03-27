@@ -1,4 +1,3 @@
 # 3SIR-ProjetoSIDIlan
-Área de exercício de uso do Git com clientes
+Área de exercício de uso do Git com client GIT CMD
 
-Primeiro teste com GitHub Desktop
